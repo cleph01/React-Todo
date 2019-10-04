@@ -1,0 +1,10 @@
+
+
+.task{
+    padding:5px;
+    background: #94ec2f;
+    border-bottom: 1px dashed #000;
+}
+.completed{
+    text-decoration: line-through;
+}
